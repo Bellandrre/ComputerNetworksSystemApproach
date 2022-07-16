@@ -1,0 +1,3 @@
+C:/Users/karth/OneDrive/Documents/GitHub/ComputerNetworksSystemApproach/cmake-build-debug/CMakeFiles/ComputerNetworksSystemApproach.dir
+C:/Users/karth/OneDrive/Documents/GitHub/ComputerNetworksSystemApproach/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karth/OneDrive/Documents/GitHub/ComputerNetworksSystemApproach/cmake-build-debug/CMakeFiles/rebuild_cache.dir
